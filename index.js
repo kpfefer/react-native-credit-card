@@ -250,12 +250,14 @@ const styles = StyleSheet.create({
     validthru: {
         flex: 1,
         alignItems: 'flex-end',
+        width:'100%',
         justifyContent: 'center'
     },
     textValidThru: {
         fontSize: 8,
         color: '#ddd',
         fontWeight: '900',
+        width:'100%',
         backgroundColor: 'transparent',
     },
     textSmall: {
